@@ -1,0 +1,22 @@
+{
+  "name": "work-tracker",
+  "version": "1.0.0",
+  "description": "A Tool to Track Work",
+  "main": "main.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jdn-the-dev/work-tracker.git"
+  },
+  "author": "Jaydon Lynch",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jdn-the-dev/work-tracker/issues"
+  },
+  "homepage": "https://github.com/jdn-the-dev/work-tracker#readme"
+}

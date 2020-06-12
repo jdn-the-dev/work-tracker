@@ -1,0 +1,37 @@
+html {
+  background-color: #232d43;
+  font-family: "Montserrat", sans-serif;
+}
+#hero-title {
+  display: flex;
+  justify-content: center;
+}
+#hero-title img {
+  width: 147px;
+  height: auto;
+}
+#work-button {
+  width: 89%;
+  background-color: #4856c9;
+  height: 50px;
+  margin: 0 auto;
+  border-radius: 4px;
+  margin-top: 27px;
+  transition: 0.3s;
+  text-align: center;
+  color: white;
+  font-family: "Montserrat", sans-serif;
+  font-size: 35px;
+}
+#work-button:hover {
+  background-color: #5767ff;
+  cursor: pointer;
+}
+#timer {
+  color: white;
+  text-align: center;
+}
+#hero-buttons {
+  display: flex;
+  justify-content: center;
+}
